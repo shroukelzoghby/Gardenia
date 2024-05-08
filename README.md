@@ -15,6 +15,7 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 - <h4>Customizable Profiles</h4>: Personalize your profile with details about your plant interests, experience level, and favorite species.
 
 
+<p align="center"><a href="https://github.com/shroukelzoghby/Gardenia" target="_blank"><img src="WhatsApp Image 2024-02-26 at 11.36.59 PM.jpeg" width="400" alt="Gradenia logo"></a></p>
 
 
 ## Gardenia Team
@@ -26,19 +27,5 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 - Data Scientist: **[Rahaf Fayez](https://github.com/rahaffayez)**
 
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Gardenia
