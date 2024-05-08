@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/shroukelzoghby/Gardenia" target="_blank"><img src="public/images/logo.png" width="400" alt="Gradenia logo"></a></p>
+<p align="center"><a href="https://github.com/shroukelzoghby/Gardenia" target="_blank"><img src="logo.png" width="400" alt="Gradenia logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
