@@ -14,30 +14,17 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 - <h4>Plant Marketplace</h4>: Discover and purchase new plants directly through the app from verified sellers. Filter by plant type, size, and price range to find the perfect addition to your collection.
 - <h4>Customizable Profiles</h4>: Personalize your profile with details about your plant interests, experience level, and favorite species.
 
+
+
+
 ## Gardenia Team
 
-- <h4>Backend Developer:</h4> **[Shrouk Elzoghby](https://github.com/shroukelzoghby/)**
-- <h4>Flutter Developer:</h4>  **[Ahmed Emara](https://github.com/ahmedemara231/Gardenia/)**
-- <h4>Flutter Developer:</h4>  **[Rewan Elmalah](https://github.com/Rewanelmlah)**
-- <h4>Ui/Ux Designer:</h4> **[Abdallah Saad](https://www.behance.net/abdallahsaad13)**
-- <h4>Data Scientist:</h4> **[Rahaf Fayez](https://github.com/rahaffayez)**
+- Backend Developer : **[Shrouk Elzoghby](https://github.com/shroukelzoghby)**
+- Flutter Developer: **[Ahmed Emara](https://github.com/ahmedemara231/Gardenia)**
+- Flutter Developer: **[Rewan Elmalah](https://github.com/Rewanelmlah)**
+- Ui/Ux Designer: **[Abdallah Saad](https://www.behance.net/abdallahsaad13)**
+- Data Scientist: **[Rahaf Fayez](https://github.com/rahaffayez)**
 
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
 
 ## Contributing
 
