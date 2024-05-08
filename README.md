@@ -5,6 +5,8 @@
 
 Gardenia is an app for everything plant-related. receiving personalized care tips and reminders, or connecting with a community of fellow plant enthusiasts Plus, discover and purchase new plants to expand your collection directly through the app.
 
+<img src="WhatsApp Image 2024-02-26 at 11.36.59 PM.jpeg" alt="Gradenia logo">
+
 ## Our Features
 
 - <h4>Personalized Care Tips</h4>: Users receive customized care tips for their specific plants based on factors like type, location, and environment.
@@ -14,8 +16,6 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 - <h4>Plant Marketplace</h4>: Discover and purchase new plants directly through the app from verified sellers. Filter by plant type, size, and price range to find the perfect addition to your collection.
 - <h4>Customizable Profiles</h4>: Personalize your profile with details about your plant interests, experience level, and favorite species.
 
-
-<img src="WhatsApp Image 2024-02-26 at 11.36.59 PM.jpeg" alt="Gradenia logo">
 
 
 ## Gardenia Team
