@@ -7,16 +7,21 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 
 ## Our Features
 
-- <h3>Personalized Care Tips</h3>: Users receive customized care tips for their specific plants based on factors like type, location, and environment.
-- Community Interaction: Connect with a community of fellow plant enthusiasts to share tips, advice, and experiences. Users can post questions, share photos of their plants, and engage in discussions.
-- Plant Database: Access a comprehensive database of plants with detailed information on care requirements, preferred conditions, and common issues.
-- Wishlist: Create a wishlist of plants you desire to add to your collection, with the option to receive notifications when they become available for purchase.
-- Plant Marketplace: Discover and purchase new plants directly through the app from verified sellers. Filter by plant type, size, and price range to find the perfect addition to your collection.
-- Customizable Profiles: Personalize your profile with details about your plant interests, experience level, and favorite species.
+- <h4>Personalized Care Tips</h4>: Users receive customized care tips for their specific plants based on factors like type, location, and environment.
+- <h4>Community Interaction</h4>: Connect with a community of fellow plant enthusiasts to share tips, advice, and experiences. Users can post questions, share photos of their plants, and engage in discussions.
+- <h4>Plant Database</h4>: Access a comprehensive database of plants with detailed information on care requirements, preferred conditions, and common issues.
+- <h4>Wishlist</h4>: Create a wishlist of plants you desire to add to your collection, with the option to receive notifications when they become available for purchase.
+- <h4>Plant Marketplace</h4>: Discover and purchase new plants directly through the app from verified sellers. Filter by plant type, size, and price range to find the perfect addition to your collection.
+- <h4>Customizable Profiles</h4>: Personalize your profile with details about your plant interests, experience level, and favorite species.
 
-## Laravel Sponsors
+## Gardenia Team
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- <h4>Backend Developer:</h4> **[Shrouk Elzoghby](https://github.com/shroukelzoghby/)**
+- <h4>Flutter Developer:</h4>  **[Ahmed Emara](https://github.com/ahmedemara231/Gardenia/)**
+- <h4>Flutter Developer:</h4>  **[Rewan Elmalah](https://github.com/Rewanelmlah)**
+- <h4>Ui/Ux Designer:</h4> **[Abdallah Saad](https://www.behance.net/abdallahsaad13)**
+- <h4>Data Scientist:</h4> **[Rahaf Fayez](https://github.com/rahaffayez)**
+
 
 ### Premium Partners
 
