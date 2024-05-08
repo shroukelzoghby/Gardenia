@@ -15,7 +15,7 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 - <h4>Customizable Profiles</h4>: Personalize your profile with details about your plant interests, experience level, and favorite species.
 
 
-<p align="center"><a href="https://github.com/shroukelzoghby/Gardenia" target="_blank"><img src="WhatsApp Image 2024-02-26 at 11.36.59 PM.jpeg" width="400" alt="Gradenia logo"></a></p>
+<img src="WhatsApp Image 2024-02-26 at 11.36.59 PM.jpeg" width="400" alt="Gradenia logo">
 
 
 ## Gardenia Team
@@ -28,4 +28,4 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 
 
 
-# Gardenia
+
