@@ -1,33 +1,18 @@
 <p align="center"><a href="https://github.com/shroukelzoghby/Gardenia" target="_blank"><img src="logo.png" width="400" alt="Gradenia logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+## About Gardenia
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Gardenia is an app for everything plant-related. receiving personalized care tips and reminders, or connecting with a community of fellow plant enthusiasts Plus, discover and purchase new plants to expand your collection directly through the app.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Our Features
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Personalized Care Tips: Users receive customized care tips for their specific plants based on factors like type, location, and environment.
+- Community Interaction: Connect with a community of fellow plant enthusiasts to share tips, advice, and experiences. Users can post questions, share photos of their plants, and engage in discussions.
+- Plant Database: Access a comprehensive database of plants with detailed information on care requirements, preferred conditions, and common issues.
+- Wishlist: Create a wishlist of plants you desire to add to your collection, with the option to receive notifications when they become available for purchase.
+- Plant Marketplace: Discover and purchase new plants directly through the app from verified sellers. Filter by plant type, size, and price range to find the perfect addition to your collection.
+- Customizable Profiles: Personalize your profile with details about your plant interests, experience level, and favorite species.
 
 ## Laravel Sponsors
 
