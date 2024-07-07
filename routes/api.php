@@ -5,6 +5,7 @@ use App\Http\Controllers\Api\V1\CategoryController;
 use App\Http\Controllers\Api\V1\CommentController;
 use App\Http\Controllers\Api\V1\FileController;
 use App\Http\Controllers\Api\V1\PlantController;
+use App\Http\Controllers\Api\V1\StripePaymentController;
 use App\Http\Controllers\Api\V1\UserController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -69,6 +70,7 @@ Route::group(["namespace"=>"Api"],function (){
 
     Route::get('profile',[UserController::class,'profile']);
     Route::patch('update_profile',[UserController::class,'updateProfile']);
+    Route::post('update_image',[UserController::class,'updateImage']);
 
     Route::get('/categories',[CategoryController::class,'index']);
     Route::get('/categories',[CategoryController::class,'show']);
@@ -77,6 +79,10 @@ Route::group(["namespace"=>"Api"],function (){
     Route::get('plants',[PlantController::class,'showAll']);
     Route::get('plants/popular',[PlantController::class,'popularPlant']);
     Route::get('search/{name}',[PlantController::class,'search']);
+    Route::post('plants/toggle_plant',[PlantController::class,'togglePlant']);
+    Route::get('favourite_plants',[PlantController::class,'favouritePlants']);
+
+    Route::post('stripe',[StripePaymentController::class,'stripePost']);
 
 
 

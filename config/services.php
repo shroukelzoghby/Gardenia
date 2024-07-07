@@ -31,6 +31,11 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
+
+    'stripe'=>[
+        'secret' => env('STRIPE_SECRET'),
+    ],
+
     'google' => [
         'client_id' => '209085159384-l4p56n8smjnqhuu9nuhi8j16cpgnqm98.apps.googleusercontent.com',
         'client_secret' => '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',

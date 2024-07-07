@@ -52,6 +52,11 @@ class User extends Authenticatable implements JWTSubject
     ];
 
 
+    public function favouritePlants()
+    {
+        return $this->belongsToMany(Plant::class, 'user_favourite_plant', 'user_id', 'plant_id');
+
+    }
 
     public function posts():HasMany
     {

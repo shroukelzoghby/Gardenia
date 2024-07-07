@@ -37,4 +37,10 @@ class Plant extends Model
         return $this->hasMany(Schedule::class);
 
     }
+
+    public function favouriteByUsers()
+    {
+       return $this->belongsToMany(User::class,'user_favourite_plant','plant_id','user_id');
+
+    }
 }
