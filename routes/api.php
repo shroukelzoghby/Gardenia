@@ -78,7 +78,7 @@ Route::group(["namespace"=>"Api"],function (){
 
     Route::get('plants',[PlantController::class,'showAll']);
     Route::get('plants/popular',[PlantController::class,'popularPlant']);
-    Route::get('search/{name}',[PlantController::class,'search']);
+    Route::get('search',[PlantController::class,'search']);
     Route::post('plants/toggle_plant',[PlantController::class,'togglePlant']);
     Route::get('favourite_plants',[PlantController::class,'favouritePlants']);
 
