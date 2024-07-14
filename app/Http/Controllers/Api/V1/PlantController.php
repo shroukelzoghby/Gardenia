@@ -28,7 +28,8 @@ class PlantController extends Controller
     }
 
 
-    public function search($name){
+    public function search(Request $request){
+        $name= $request->query('name');
         $plant_search= Plant::where('name','LIKE','%'.$name.'%')->get();
         if(count($plant_search) == 0){
             return response()->json(['status'=>'Error','msg'=>'No data found'],404);
