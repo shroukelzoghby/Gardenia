@@ -9,10 +9,11 @@ Gardenia is an app for everything plant-related. receiving personalized care tip
 
 ## Our Features
 
-- <h4>Personalized Care Tips :</h4> Users receive customized care tips for their specific plants based on factors like type, location, and environment.
 - <h4>Community Interaction :</h4> Connect with a community of fellow plant enthusiasts to share tips, advice, and experiences. Users can post questions, share photos of their plants, and engage in discussions.
 - <h4>Plant Database :</h4> Access a comprehensive database of plants with detailed information on care requirements, preferred conditions, and common issues.
 - <h4>Customizable Profiles :</h4> Personalize your profile with details about your plant interests, experience level, and favorite species.
+-<h4>Payment :</h4>
+-<h4>Toggle Favourite Plants :</h4>
 
 
 
